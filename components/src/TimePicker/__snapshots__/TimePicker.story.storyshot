@@ -8,7 +8,7 @@ exports[`Storyshots TimePicker default 1`] = `
     class="NDSProvider__GlobalStyles-f28eoq-0 gXOmnU"
   >
     <div
-      class="Box-sc-1qu1edy-0 Field-sc-1lebjra-0 erVIOB"
+      class="Box-xda4ls-0 Field-sc-1lebjra-0 erVIOB"
     >
       <label
         class="FieldLabel__Label-sc-1t1cp4f-0 dDzyZF FieldLabel-sc-1t1cp4f-2 dClnot"
@@ -16,7 +16,7 @@ exports[`Storyshots TimePicker default 1`] = `
         style="display:block"
       >
         <div
-          class="Box-sc-1qu1edy-0 ilQgHG"
+          class="Box-xda4ls-0 biCpIl"
           data-testid="field-label"
         >
           <span
@@ -120,7 +120,7 @@ exports[`Storyshots TimePicker with custom placeholder 1`] = `
     class="NDSProvider__GlobalStyles-f28eoq-0 gXOmnU"
   >
     <div
-      class="Box-sc-1qu1edy-0 Field-sc-1lebjra-0 erVIOB"
+      class="Box-xda4ls-0 Field-sc-1lebjra-0 erVIOB"
     >
       <label
         class="FieldLabel__Label-sc-1t1cp4f-0 dDzyZF FieldLabel-sc-1t1cp4f-2 dClnot"
@@ -128,7 +128,7 @@ exports[`Storyshots TimePicker with custom placeholder 1`] = `
         style="display:block"
       >
         <div
-          class="Box-sc-1qu1edy-0 ilQgHG"
+          class="Box-xda4ls-0 biCpIl"
           data-testid="field-label"
         >
           <span
@@ -232,7 +232,7 @@ exports[`Storyshots TimePicker with custom time format 1`] = `
     class="NDSProvider__GlobalStyles-f28eoq-0 gXOmnU"
   >
     <div
-      class="Box-sc-1qu1edy-0 Field-sc-1lebjra-0 erVIOB"
+      class="Box-xda4ls-0 Field-sc-1lebjra-0 erVIOB"
     >
       <label
         class="FieldLabel__Label-sc-1t1cp4f-0 dDzyZF FieldLabel-sc-1t1cp4f-2 dClnot"
@@ -240,7 +240,7 @@ exports[`Storyshots TimePicker with custom time format 1`] = `
         style="display:block"
       >
         <div
-          class="Box-sc-1qu1edy-0 ilQgHG"
+          class="Box-xda4ls-0 biCpIl"
           data-testid="field-label"
         >
           <span
@@ -344,7 +344,7 @@ exports[`Storyshots TimePicker with custom time interval 1`] = `
     class="NDSProvider__GlobalStyles-f28eoq-0 gXOmnU"
   >
     <div
-      class="Box-sc-1qu1edy-0 Field-sc-1lebjra-0 erVIOB"
+      class="Box-xda4ls-0 Field-sc-1lebjra-0 erVIOB"
     >
       <label
         class="FieldLabel__Label-sc-1t1cp4f-0 dDzyZF FieldLabel-sc-1t1cp4f-2 dClnot"
@@ -352,7 +352,7 @@ exports[`Storyshots TimePicker with custom time interval 1`] = `
         style="display:block"
       >
         <div
-          class="Box-sc-1qu1edy-0 ilQgHG"
+          class="Box-xda4ls-0 biCpIl"
           data-testid="field-label"
         >
           <span
@@ -456,7 +456,7 @@ exports[`Storyshots TimePicker with error state 1`] = `
     class="NDSProvider__GlobalStyles-f28eoq-0 gXOmnU"
   >
     <div
-      class="Box-sc-1qu1edy-0 Field-sc-1lebjra-0 erVIOB"
+      class="Box-xda4ls-0 Field-sc-1lebjra-0 erVIOB"
     >
       <label
         class="FieldLabel__Label-sc-1t1cp4f-0 dDzyZF FieldLabel-sc-1t1cp4f-2 dClnot"
@@ -464,7 +464,7 @@ exports[`Storyshots TimePicker with error state 1`] = `
         style="display:block"
       >
         <div
-          class="Box-sc-1qu1edy-0 ilQgHG"
+          class="Box-xda4ls-0 biCpIl"
           data-testid="field-label"
         >
           <span
@@ -555,7 +555,7 @@ exports[`Storyshots TimePicker with error state 1`] = `
           </div>
         </div>
         <div
-          class="Box-sc-1qu1edy-0 Flex-hrfu3s-0 ycNbA"
+          class="Box-xda4ls-0 Flex-hrfu3s-0 ycNbA"
           color="red"
         >
           <svg
@@ -600,7 +600,7 @@ exports[`Storyshots TimePicker with min and max time 1`] = `
     class="NDSProvider__GlobalStyles-f28eoq-0 gXOmnU"
   >
     <div
-      class="Box-sc-1qu1edy-0 Field-sc-1lebjra-0 erVIOB"
+      class="Box-xda4ls-0 Field-sc-1lebjra-0 erVIOB"
     >
       <label
         class="FieldLabel__Label-sc-1t1cp4f-0 dDzyZF FieldLabel-sc-1t1cp4f-2 dClnot"
@@ -608,7 +608,7 @@ exports[`Storyshots TimePicker with min and max time 1`] = `
         style="display:block"
       >
         <div
-          class="Box-sc-1qu1edy-0 ilQgHG"
+          class="Box-xda4ls-0 biCpIl"
           data-testid="field-label"
         >
           <span
