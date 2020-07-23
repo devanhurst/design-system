@@ -120,7 +120,7 @@
     "gatsby-plugin-gtag": "^1.0.12",
     "i18next": "^19.3.1",
     "lerna": "^3.16.4",
-    "mockdate": "^2.0.5",
+    "mockdate": "^3.0.2",
     "polished": "3.4.4",
     "react-datepicker": "^2.10.1",
     "react-i18next": "^11.3.3",
